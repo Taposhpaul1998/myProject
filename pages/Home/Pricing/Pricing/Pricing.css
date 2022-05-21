@@ -1,0 +1,16 @@
+.pricing-card{
+    width: 18rem;
+    border: 1px solid #0000001f;
+    border-radius: 5px;
+    padding: 28px 12px;
+    margin: 15px;
+    box-shadow: 5px 5px 16px #242768;
+}
+.pricing-card p{
+    font-size: 19px;
+    margin-bottom: 0px;
+}
+.pricing-card h6{
+    line-height: 25px;
+    font-size: 18px;
+}

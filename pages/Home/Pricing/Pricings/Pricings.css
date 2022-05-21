@@ -1,0 +1,19 @@
+.pricing{
+    padding: 58px 0;
+    background-color: #00ffff0d;
+}
+
+.pricing h2 {
+    text-align: center;
+    font-size: 38px;
+    font-weight: 700;
+    color: #2d2e5b;
+}
+.pricing-conteiner {
+    padding: 58px;
+}
+.pricing-conteiner{
+    width: 80%;
+    margin: auto;
+    padding-top: 55px;
+}

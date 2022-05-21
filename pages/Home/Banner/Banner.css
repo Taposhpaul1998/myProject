@@ -1,0 +1,21 @@
+.banner{
+    height: 680px;
+    background-image: linear-gradient(#00000036,#00000040),url(https://i.ibb.co/6yzyVRc/banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items:flex-end;
+    justify-content: center;
+}
+.bannerText{
+    text-align: center;
+color: white;
+margin-bottom: 130px;
+}
+.bannerText h2{
+    font-size: 46px;
+    font-weight: 700;
+}.bannerText p{
+    font-size: 36px;
+    font-weight: 600;
+}

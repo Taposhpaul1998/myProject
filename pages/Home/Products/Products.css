@@ -1,0 +1,15 @@
+.invetorySection {
+    background-color: #4345912e;
+    padding: 58px 0px;
+}
+.invetorySection h2 {
+    text-align: center;
+    font-size: 38px;
+    font-weight: 700;
+    color: #2d2e5b;
+}
+.product-conteiner{
+    width: 80%;
+    margin: auto;
+    padding-top: 55px;
+}
